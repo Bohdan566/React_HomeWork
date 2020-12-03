@@ -1,0 +1,22 @@
+.other{
+    background-color: dodgerblue;
+    padding: 20px;
+}
+
+.first{
+    background-color: rebeccapurple;
+}
+
+.middle{
+    background-color: springgreen;
+}
+
+.last{
+    background-color: aqua;
+}
+
+.first, .middle, .last {
+    border: 4px solid black;
+    padding: 30px;
+    margin-left: 50px;
+}
